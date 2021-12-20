@@ -3,7 +3,7 @@ function exp(x){
   if (x===0){
     return x;
 } else {
-  return 'exponential number for ' + x + ' is ' + x ** 2;
+  return exponential number for ' + x + ' is ' + x ** 2;
 }
 
 }
